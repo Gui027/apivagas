@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Guilherme\Desktop\contador-vagas-yt\venv"
+VIRTUAL_ENV="C:\Users\evald\OneDrive\Área de Trabalho\apivagas\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

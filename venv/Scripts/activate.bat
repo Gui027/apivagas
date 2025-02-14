@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Guilherme\Desktop\contador-vagas-yt\venv
+set VIRTUAL_ENV=C:\Users\evald\OneDrive\Área de Trabalho\apivagas\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
